@@ -1,0 +1,27 @@
+table{
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 25px;
+    background-color: rgb(42, 165, 163);
+    font-display: 30px;
+    padding: 15px;
+    border-spacing: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    color: blueviolet;
+    background-color: rgb(186, 228, 241);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(228, 233, 234);
+    background-color: rgb(104, 80, 80);
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color: darkred;
+    background-color: black;
+}
